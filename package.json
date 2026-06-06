@@ -1,0 +1,24 @@
+{
+  "name": "github-actions-project",
+  "version": "1.0.0",
+  "description": "CI/CD Pipeline Automation using GitHub Actions  We'll create a simple Node.js application and configure GitHub Actions to automatically verify it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sriram507/github-actions-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sriram507/github-actions-project/issues"
+  },
+  "homepage": "https://github.com/sriram507/github-actions-project#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
